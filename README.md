@@ -27,6 +27,18 @@ Heroku
 ### Deployed App
 https://mern-book-search-engin.herokuapp.com/ 
 
+## Tasks List
+
+In this project I have done the following changes in the existing code of book-search application:
+
+- [x] Setting up an Apollo Server to use GraphQL queries and mutations to fetch and modify data, replacing the existing RESTful API.
+
+- [x] Modifying the existing authentication middleware so that it works in the context of a GraphQL API.
+
+- [x] Creating an Apollo Provider so that requests can communicate with an Apollo Server.
+
+- [x] Deploying the application to Heroku.
+
 ### Screenshots
 
 <img width="1189" alt="Screen Shot 2021-07-01 at 7 51 46 PM" src="https://user-images.githubusercontent.com/77028806/124214587-524b6b00-daa7-11eb-8906-61a0691f9b95.png">
