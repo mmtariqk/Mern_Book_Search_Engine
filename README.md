@@ -4,18 +4,27 @@
 This project refactors a Google Books API search engine from a RESTful API to a GraphQL API with Apollo Server. The search engine is built using the MERN stack - MongoDB, Express.js, React, and Node.js. A user can create an account, search for books, and save them to a list. On a separately rendered page, the user can see their saved books and remove books from the list. In short this is a Google Books API search engine built with a RESTful API and refactored to be a GraphQL API built with Apollo Server now. This application was built using the MERN stack, with a REACT frontend, MongoDB database, and Node.js/Express.js server and API.
 
 ### Technogies & Tools Used:
-Create React App
-React
 Node.js
-Express.js
-MongoDB and Mongoose
-JSON Web Tokenk
-JavaScript ES5 and ES6
+
+apollo server
+apollo server express
+graphQl
+JWT (JSON Web Token)
+bcrypt
+mongoDB and mongoose
+express
+sequelize
+JSX
+JavaScript
+CSS
+REACT bootsrap
+REACT
 HTML, CSS, React Bootstrap
 Google Books API
 Apollo Boost
 dotenv
 Heroku
+
 ### DEployed App
 ### Screenshots
 
