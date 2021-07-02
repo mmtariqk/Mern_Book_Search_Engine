@@ -24,9 +24,9 @@ Apollo Boost
 dotenv
 Heroku
 
-### DEployed App
-### Screenshots
+### Deployed App
 
+### Screenshots
 
 
 ## Original README.MD below
