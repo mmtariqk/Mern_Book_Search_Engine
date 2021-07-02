@@ -5,7 +5,6 @@ This project refactors a Google Books API search engine from a RESTful API to a 
 
 ### Technogies & Tools Used:
 Node.js
-
 apollo server
 apollo server express
 graphQl
