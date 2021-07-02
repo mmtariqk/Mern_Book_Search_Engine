@@ -47,25 +47,6 @@ In this project I have done the following changes in the existing code of book-s
 
 <img width="1681" alt="Screen Shot 2021-07-01 at 7 50 46 PM" src="https://user-images.githubusercontent.com/77028806/124214613-5b3c3c80-daa7-11eb-835f-73c29d3b2fdc.png">
 
-
-## Screenshots
-
-Please see below animations for different sections of this application:
-
-* As you can see in the following animation, a user can type a search term (in this case, "star wars") in a search box and the results appear:
-
-![alt=homepage](./client/src/utils/img/homepage.gif)
-
-* The user can save books by clicking "Save This Book!" under each search result, as shown in the following animation:
-
-![alt=saving-books](./client/src/utils/img/saveBook.gif)
-
-
-* A user can view their saved books on a separate page, as shown in the following animation:
-
-![alt=view-saved-books](./client/src/utils/img/viewSavedBooks.gif)
-
-
 ## Available Scripts
 
 In the project directory, you can run:
