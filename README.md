@@ -25,7 +25,7 @@ dotenv
 Heroku
 
 ### Deployed App
-https://mern-book-search-engin.herokuapp.com/ 
+https://powerful-journey-42449.herokuapp.com/
 
 ## Tasks List
 
