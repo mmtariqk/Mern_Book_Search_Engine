@@ -1,5 +1,4 @@
 ## MERN: Book Search Engine
-
 ### Description:
 This project refactors a Google Books API search engine from a RESTful API to a GraphQL API with Apollo Server. The search engine is built using the MERN stack - MongoDB, Express.js, React, and Node.js. A user can create an account, search for books, and save them to a list. On a separately rendered page, the user can see their saved books and remove books from the list. In short this is a Google Books API search engine built with a RESTful API and refactored to be a GraphQL API built with Apollo Server now. This application was built using the MERN stack, with a REACT frontend, MongoDB database, and Node.js/Express.js server and API.
 
@@ -265,8 +264,8 @@ Additionally, you’ll need to complete the following tasks in each of these fro
 
 * `LoginForm.js`: Replace the `loginUser()` functionality imported from the `API` file with the `LOGIN_USER` mutation functionality. Define and export the `LOGIN_USER` mutation in a new file at `/client/src/utils/mutations.js`.
 
+...
 
-The End
 
 
 
